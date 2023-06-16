@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  font-size: xxx-large;
+  text-decoration: none;
+  color: #3652cc;
+}
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  background-color: aliceblue;
+}
+
+.textContent {
+  font-size: xxx-large;
+  color: rgb(243, 240, 77);
+  text-align: center;
+}
